@@ -1,0 +1,248 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6/modelsim
+valu
+Z0 !s110 1638443620
+!i10b 1
+!s100 joDF_WA]i9K]>>F@kh1mO1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEIm@c`zXV2nFLb<@?3L6a2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/modelsim
+w1637076719
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/alu.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/alu.v
+!i122 64
+L0 1 66
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1638443619.000000
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcontrol_flow
+R0
+!i10b 1
+!s100 W<[?JE_E?Lck_2jN^@R^X2
+R1
+IEi`Pz@h13ja]fhRc=3oWd0
+R2
+R3
+w1637091697
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/control_flow.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/control_flow.v
+!i122 65
+L0 1 148
+R4
+r1
+!s85 0
+31
+Z7 !s108 1638443620.000000
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/control_flow.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/control_flow.v|
+!i113 1
+R5
+R6
+vforwarding_unit
+R0
+!i10b 1
+!s100 =Vznh^geABeSlS_T?mdk<3
+R1
+IbD^?TfACf@@;n]SS0gocf0
+R2
+R3
+w1637139157
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/forwarding_unit.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/forwarding_unit.v
+!i122 66
+L0 1 54
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/forwarding_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/forwarding_unit.v|
+!i113 1
+R5
+R6
+vREG_FILE
+R0
+!i10b 1
+!s100 F?Ro0Z1WNb]1ai4=eCG8f3
+R1
+IQ;DH?noR4LChVjXN32hg`1
+R2
+R3
+w1544684674
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/REG_FILE.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/REG_FILE.v
+!i122 68
+L0 1 72
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/REG_FILE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/REG_FILE.v|
+!i113 1
+R5
+R6
+n@r@e@g_@f@i@l@e
+vRISCV_CLKRST
+Z8 !s110 1638443621
+!i10b 1
+!s100 m`AH^U>d5BoL6AIe1lP931
+R1
+I?I`oGgg5SoT@XzzZm5_Pe3
+R2
+R3
+w1634461210
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_CLKRST.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_CLKRST.v
+!i122 69
+L0 3 21
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_CLKRST.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_CLKRST.v|
+!i113 1
+R5
+R6
+n@r@i@s@c@v_@c@l@k@r@s@t
+vRISCV_TOP
+R8
+!i10b 1
+!s100 9dz0<PoF0Rb8CdG26LnU41
+R1
+I9z?cSXbHHckj3QnM?ll0C3
+R2
+R3
+w1638442711
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_TOP.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_TOP.v
+!i122 70
+L0 2 500
+R4
+r1
+!s85 0
+31
+Z9 !s108 1638443621.000000
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_TOP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/RISCV_TOP.v|
+!i113 1
+R5
+R6
+n@r@i@s@c@v_@t@o@p
+vSP_SRAM
+R0
+!i10b 1
+!s100 @5@adf6O:1MSRJd5z6K5M2
+R1
+IR[HF5a;Z9XPF@gS]Bh0jC1
+R2
+R3
+w1631337275
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/Mem_Model.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/Mem_Model.v
+!i122 67
+L0 2 48
+R4
+r1
+!s85 0
+31
+R7
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/Mem_Model.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/template/Mem_Model.v|
+!i113 1
+R5
+R6
+n@s@p_@s@r@a@m
+vTB_RISCV_forloop
+!s110 1638443560
+!i10b 1
+!s100 n]F>NXWPPaDQABKhXMNFe0
+R1
+IVhV3I08P;I8aa?T<0g=gW1
+R2
+R3
+w1638442839
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_forloop.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_forloop.v
+!i122 47
+L0 5 168
+R4
+r1
+!s85 0
+31
+!s108 1638443559.000000
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_forloop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_forloop.v|
+!i113 1
+R5
+R6
+n@t@b_@r@i@s@c@v_forloop
+vTB_RISCV_inst
+R8
+!i10b 1
+!s100 [bAUG`hXFkV]4_l1Xd2jN1
+R1
+Ig1AQB5aoIBHz94BE>P8PF3
+R2
+R3
+w1638442843
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_inst.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_inst.v
+!i122 71
+L0 5 180
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_inst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_inst.v|
+!i113 1
+R5
+R6
+n@t@b_@r@i@s@c@v_inst
+vTB_RISCV_sort
+!s110 1638442847
+!i10b 1
+!s100 liC7N;_PkcfL5abLg=Xk]2
+R1
+IBCPa>lnMzHfE7@VhFE6;91
+R2
+R3
+w1638442825
+8E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v
+FE:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v
+!i122 7
+L0 5 194
+R4
+r1
+!s85 0
+31
+!s108 1638442847.000000
+!s107 E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v|
+!i113 1
+R5
+R6
+n@t@b_@r@i@s@c@v_sort

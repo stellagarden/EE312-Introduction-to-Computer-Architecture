@@ -1,0 +1,331 @@
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_sort.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.alu work.control_flow work.forwarding_unit work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV_sort
+# vsim -gui work.alu work.control_flow work.forwarding_unit work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV_sort 
+# Start time: 20:00:57 on Dec 02,2021
+# Loading work.alu
+# Loading work.control_flow
+# Loading work.forwarding_unit
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV_sort
+add wave -position insertpoint  \
+sim:/TB_RISCV_sort/CLK \
+sim:/TB_RISCV_sort/RSTn \
+sim:/TB_RISCV_sort/I_MEM_CSN \
+sim:/TB_RISCV_sort/I_MEM_DOUT \
+sim:/TB_RISCV_sort/I_MEM_ADDR \
+sim:/TB_RISCV_sort/D_MEM_CSN \
+sim:/TB_RISCV_sort/D_MEM_WEN \
+sim:/TB_RISCV_sort/D_MEM_BE \
+sim:/TB_RISCV_sort/D_MEM_DOUT \
+sim:/TB_RISCV_sort/D_MEM_DI \
+sim:/TB_RISCV_sort/D_MEM_ADDR \
+sim:/TB_RISCV_sort/RF_WE \
+sim:/TB_RISCV_sort/RF_RA1 \
+sim:/TB_RISCV_sort/RF_RA2 \
+sim:/TB_RISCV_sort/RF_WA \
+sim:/TB_RISCV_sort/RF_RD1 \
+sim:/TB_RISCV_sort/RF_RD2 \
+sim:/TB_RISCV_sort/RF_WD \
+sim:/TB_RISCV_sort/HALT \
+sim:/TB_RISCV_sort/NUM_INST \
+sim:/TB_RISCV_sort/OUTPUT_PORT \
+sim:/TB_RISCV_sort/cycle \
+sim:/TB_RISCV_sort/verify \
+sim:/TB_RISCV_sort/TestID \
+sim:/TB_RISCV_sort/TestNumInst \
+sim:/TB_RISCV_sort/TestAns \
+sim:/TB_RISCV_sort/TestPassed \
+sim:/TB_RISCV_sort/i
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been passed
+# Test #   13 has been passed
+# Test #   14 has been passed
+# Test #   15 has been passed
+# Test #   16 has been passed
+# Test #   17 has been passed
+# Test #   18 has been passed
+# Test #   19 has been passed
+# Test #   20 has been passed
+# Test #   21 has been passed
+# Test #   22 has been passed
+# Test #   23 has been passed
+# Test #   24 has been passed
+# Test #   25 has been passed
+# Test #   26 has been passed
+# Test #   27 has been passed
+# Test #   28 has been passed
+# Test #   29 has been passed
+# Test #   30 has been passed
+# Test #   31 has been passed
+# Test #   32 has been passed
+# Test #   33 has been passed
+# Test #   34 has been passed
+# Test #   35 has been passed
+# Test #   36 has been passed
+# Test #   37 has been passed
+# Test #   38 has been passed
+# Test #   39 has been passed
+# Test #   40 has been passed
+# Finish:      28293 cycle
+# Success.
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v(193)
+#    Time: 283045 ns  Iteration: 1  Instance: /TB_RISCV_sort
+# 1
+# Break in Module TB_RISCV_sort at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v line 193
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_forloop.v was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_forloop.v was successful.
+# 8 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu
+# Loading work.control_flow
+# Loading work.forwarding_unit
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_forloop.v was successful.
+# 8 compiles, 0 failed with no errors.
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been passed
+# Test #   13 has been passed
+# Test #   14 has been passed
+# Test #   15 has been passed
+# Test #   16 has been passed
+# Test #   17 has been passed
+# Test #   18 has been passed
+# Test #   19 has been passed
+# Test #   20 has been passed
+# Test #   21 has been passed
+# Test #   22 has been passed
+# Test #   23 has been passed
+# Test #   24 has been passed
+# Test #   25 has been passed
+# Test #   26 has been passed
+# Test #   27 has been passed
+# Test #   28 has been passed
+# Test #   29 has been passed
+# Test #   30 has been passed
+# Test #   31 has been passed
+# Test #   32 has been passed
+# Test #   33 has been passed
+# Test #   34 has been passed
+# Test #   35 has been passed
+# Test #   36 has been passed
+# Test #   37 has been passed
+# Test #   38 has been passed
+# Test #   39 has been passed
+# Test #   40 has been passed
+# Finish:      28293 cycle
+# Success.
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v(193)
+#    Time: 283045 ns  Iteration: 1  Instance: /TB_RISCV_sort
+# 1
+# Break in Module TB_RISCV_sort at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_sort.v line 193
+quit -sim
+# End time: 20:12:10 on Dec 02,2021, Elapsed time: 0:11:13
+# Errors: 0, Warnings: 2
+vsim -gui work.alu work.control_flow work.forwarding_unit work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV_forloop
+# vsim -gui work.alu work.control_flow work.forwarding_unit work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV_forloop 
+# Start time: 20:12:28 on Dec 02,2021
+# Loading work.alu
+# Loading work.control_flow
+# Loading work.forwarding_unit
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV_forloop
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_forloop.v was successful.
+# 8 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu
+# Loading work.control_flow
+# Loading work.forwarding_unit
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV_forloop
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_forloop.v was successful.
+# 8 compiles, 0 failed with no errors.
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been passed
+# Test #   13 has been passed
+# Test #   14 has been passed
+# Test #   15 has been passed
+# Test #   16 has been passed
+# Test #   17 has been passed
+# Finish:        226 cycle
+# Success.
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_forloop.v(167)
+#    Time: 2375 ns  Iteration: 1  Instance: /TB_RISCV_forloop
+# 1
+# Break in Module TB_RISCV_forloop at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_forloop.v line 167
+quit -sim
+# End time: 20:13:06 on Dec 02,2021, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 2
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_inst.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.alu work.control_flow work.forwarding_unit work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV_inst
+# vsim -gui work.alu work.control_flow work.forwarding_unit work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV_inst 
+# Start time: 20:13:29 on Dec 02,2021
+# Loading work.alu
+# Loading work.control_flow
+# Loading work.forwarding_unit
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV_inst
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_inst.v was successful.
+# 8 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu
+# Loading work.control_flow
+# Loading work.forwarding_unit
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV_inst
+# Compile of alu.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful with warnings.
+# Compile of TB_RISCV_inst.v was successful.
+# 8 compiles, 0 failed with no errors.
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been passed
+# Test #   13 has been passed
+# Test #   14 has been passed
+# Test #   15 has been passed
+# Test #   16 has been passed
+# Test #   17 has been passed
+# Test #   18 has been passed
+# Test #   19 has been passed
+# Test #   20 has been passed
+# Test #   21 has been passed
+# Test #   22 has been passed
+# Test #   23 has been passed
+# Test #   24 has been passed
+# Test #   25 has been passed
+# Test #   26 has been passed
+# Finish:         50 cycle
+# Success.
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_inst.v(179)
+#    Time: 615 ns  Iteration: 1  Instance: /TB_RISCV_inst
+# 1
+# Break in Module TB_RISCV_inst at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab6-2/testbench/TB_RISCV_inst.v line 179
+# End time: 22:55:01 on Dec 02,2021, Elapsed time: 2:41:32
+# Errors: 0, Warnings: 2
