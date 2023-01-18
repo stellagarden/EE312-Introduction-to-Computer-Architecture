@@ -1,0 +1,205 @@
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_inst.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui work.ALU work.control_flow work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV
+# vsim -gui work.ALU work.control_flow work.REG_FILE work.RISCV_CLKRST work.RISCV_TOP work.SP_SRAM work.TB_RISCV 
+# Start time: 15:03:59 on Oct 10,2021
+# Loading work.ALU
+# Loading work.control_flow
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been passed
+# Test #   13 has been passed
+# Test #   14 has been passed
+# Test #   15 has been passed
+# Test #   16 has been passed
+# Test #   17 has been passed
+# Test #   18 has been passed
+# Test #   19 has been passed
+# Test #   20 has been passed
+# Test #   21 has been passed
+# Test #   22 has been passed
+# Test #   23 has been passed
+# Test #   24 has been passed
+# Test #   25 has been passed
+# Test #   26 has been passed
+# Finish:         27 cycle
+# Success.
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_inst.v(179)
+#    Time: 385 ns  Iteration: 1  Instance: /TB_RISCV
+# 1
+# Break in Module TB_RISCV at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_inst.v line 179
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_sort.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU
+# Loading work.control_flow
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_sort.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been failed!
+# output_port = 0x0 (Ans : 0x2)
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_sort.v(185)
+#    Time: 435 ns  Iteration: 1  Instance: /TB_RISCV
+# 1
+# Break in Module TB_RISCV at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_sort.v line 185
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_forloop.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU
+# Loading work.control_flow
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_forloop.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been failed!
+# output_port = 0x3 (Ans : 0x4)
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_forloop.v(159)
+#    Time: 535 ns  Iteration: 1  Instance: /TB_RISCV
+# 1
+# Break in Module TB_RISCV at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_forloop.v line 159
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v failed with 2 errors.
+# Compile of TB_RISCV_forloop.v was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_forloop.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU
+# Loading work.control_flow
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV
+# Compile of ALU.v was successful.
+# Compile of control_flow.v was successful.
+# Compile of Mem_Model.v was successful.
+# Compile of REG_FILE.v was successful.
+# Compile of RISCV_CLKRST.v was successful.
+# Compile of RISCV_TOP.v was successful.
+# Compile of TB_RISCV_forloop.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+# Test #    1 has been passed
+# Test #    2 has been passed
+# Test #    3 has been passed
+# Test #    4 has been passed
+# Test #    5 has been passed
+# Test #    6 has been passed
+# Test #    7 has been passed
+# Test #    8 has been passed
+# Test #    9 has been passed
+# Test #   10 has been passed
+# Test #   11 has been passed
+# Test #   12 has been passed
+# Test #   13 has been passed
+# Test #   14 has been passed
+# Test #   15 has been passed
+# Test #   16 has been passed
+# Test #   17 has been passed
+# Finish:         73 cycle
+# Success.
+# ** Note: $finish    : E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_forloop.v(167)
+#    Time: 845 ns  Iteration: 1  Instance: /TB_RISCV
+# 1
+# Break in Module TB_RISCV at E:/OneDrive - kaist.ac.kr/21 Fall EE312/Lab3/modelsim/TB_RISCV_forloop.v line 167
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU
+# Loading work.control_flow
+# Loading work.REG_FILE
+# Loading work.RISCV_CLKRST
+# Loading work.RISCV_TOP
+# Loading work.SP_SRAM
+# Loading work.TB_RISCV
+quit -sim
+# End time: 16:39:50 on Oct 10,2021, Elapsed time: 1:35:51
+# Errors: 0, Warnings: 1
