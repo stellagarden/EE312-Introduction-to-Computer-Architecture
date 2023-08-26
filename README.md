@@ -1,4 +1,4 @@
-# Implementation of RISC-V Microprocessor
+# EE312 Introduction to Computer Architecture
 
 ### Duration and Location
 - Sep. 2021 - Dec. 2021 (2021 Fall)
