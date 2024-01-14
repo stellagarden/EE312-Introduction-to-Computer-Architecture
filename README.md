@@ -8,5 +8,5 @@
 - EE312 Introduction to Computer Architecture
 
 ### Description
-- Used Verilog to implement simple ALU, vending machine, single-cycle CPU, multi-cycle CPU, pipelined CPU, and cash architecture
+- Used Verilog to implement simple ALU, vending machine, single-cycle CPU, multi-cycle CPU, pipelined CPU, and cache architecture
 - Followed RISC-V intruction set when implementing CPUs
